@@ -7,6 +7,9 @@
 meteor-platform
 autopublish
 insecure
+standard-app-packages
+
 underscore
 coffeescript
 iron:router
+sacha:spin
